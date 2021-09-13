@@ -1,4 +1,4 @@
-# Analysis of PMSM for Electrical Vehicles
+# Analysis of PMSM motor
 
 This project aims at analysing how different parameters affect the temperature rise in the motor parts which would enable automotive industries to manufacture motors with parameters that are capable of maximizing the efficiency of the PMSM motor for Electric Vehicle (EV) application.
 
